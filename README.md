@@ -180,6 +180,9 @@ _Requirements_
 - PPCA_A1_{Name}: A geopackage file with 1 layer
     * 'Points_with_reg_and_hckmeans' (Points), points along the pedestrian street network with slope results accross four distances values and clustering labels for solutions ranging from 5 to 19 clusters
 
+# Citation
+Perez, J. & Fusco, G., 2025. Population potential on catchment area (PPCA): A Python-based tool for worldwide geospatial population analysis. SoftwareX, 31, p.102245. https://doi.org/10.1016/j.softx.2025.102245
+
 # Acknowledgement 
 This resource was produced within the emc2 project, which is funded by ANR (France), FFG (Austria), MUR (Italy) and Vinnova (Sweden) under the Driving Urban Transition Partnership, which has been co-funded by the European Commission.
 
